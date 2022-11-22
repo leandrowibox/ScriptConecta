@@ -62,7 +62,7 @@ apt install socat -y
 update-alternatives --set python3 /usr/bin/python3.6
 }
 echo -e "\033[0;34m╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮\033[0m"
-echo -e "\033[0;34m┃\E[41;1;37m        ⇱ SCRIPT SSHPLUS PROFESSIONAL TOOL KIT ⇲        \E[0m\033[0;34m┃"
+echo -e "\033[0;34m┃\E[41;1;37m   ⇱ SCRIPT SSHPLUS PROFESSIONAL TOOL KIT ⇲      \E[0m\033[0;34m┃"
 echo -e "\033[0;34m╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯\033[0m"
 echo ""          
 echo -e "             \033[1;31mATENCAO! \033[1;37mESSE SCRIPT IRA !\033[0m"
@@ -73,7 +73,7 @@ echo ""
 echo -e "\033[1;32m• \033[1;32mDICA! \033[1;37mULTILIZE O TEMA DARK EM SEU TERMINAL PARA\033[0m"
 echo -e "\033[1;37m  UMA MELHOR EXPERIÊNCIA E VISUALIZACAO DO MESMO!\033[0m"
 echo -e "\033[0;34m╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮\033[0m"
-echo -e "\033[0;34m┃\033[1;37m               by:@SrCarrara                    \E[0m\033[0;34m┃"
+echo -e "\033[0;34m┃\033[1;37m     Powered by: @SrCarrara On Telegram ✈️       \E[0m\033[0;34m┃"
 echo -e "\033[0;34m╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯\033[0m\n"           
 echo ""
 #-----------------------------------------------------------------------------------------------------------------
